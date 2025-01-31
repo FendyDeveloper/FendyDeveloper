@@ -47,9 +47,6 @@ A personal challenge to master Python through daily learning and coding
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FendyDeveloper&layout=compact&theme=radical"/>
 </p>
 
-## 📈 Contribution Graph
-[![Fendy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FendyDeveloper&theme=react-dark)](https://github.com/FendyDeveloper)
-
 ## 🤝 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/fendy-rahmat/" target="_blank">
