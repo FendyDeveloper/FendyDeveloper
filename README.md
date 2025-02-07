@@ -57,8 +57,8 @@ A personal challenge to master Python through daily learning and coding
   </a>
 </p>
 
-## 🎯 Goals for 2024
-- 📚 Complete my 30 Days Python Challenge
+## 🎯 Goals for 2025
+- 📚 Complete my 30 Days Python Challenge - Done
 - 💼 Build more full-stack applications
 - 🌐 Contribute to open-source projects
 - 📱 Develop mobile-first web applications
